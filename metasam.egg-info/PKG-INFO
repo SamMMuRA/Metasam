@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: metasam
+Version: 1.0
+Summary: 
+La distribucion metadata proporciona funciones para trabajar con metadatos de ficheros PDF y Microsoft Office y es capaz de generar reportes para un posterior procesado.
+
+Home-page: UNKNOWN
+Author: Samir Kamal Moreno
+Author-email: samirkam49@hotmail.com
+License: Freeware
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status:: Beta
+Classifier: Operating System::Linux

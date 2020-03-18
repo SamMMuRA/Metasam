@@ -1,0 +1,10 @@
+Scrapy
+fpdf
+matplotlib
+pandas
+pyPdf
+pycurl
+pyfiglet
+python-magic
+requests
+unidecode
